@@ -1,6 +1,7 @@
 # numberdle_app.py
 # Minimal, clean Numberdle (00000'9699999), 6 tries
 # Run: streamlit run numberdle_app.py
+#multi modes : Normal, Hard, Ultra
 
 import random
 from typing import List, Tuple
